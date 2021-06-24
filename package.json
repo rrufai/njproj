@@ -1,0 +1,23 @@
+{
+  "name": "njproj",
+  "version": "1.0.0",
+  "description": "Test node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrufai/njproj.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "rrufai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrufai/njproj/issues"
+  },
+  "homepage": "https://github.com/rrufai/njproj#readme"
+}
